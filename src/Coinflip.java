@@ -1,4 +1,4 @@
-public class Coinflip {
+public class Coinflip implements Flip {
     private int res;
 
     public Coinflip() {
